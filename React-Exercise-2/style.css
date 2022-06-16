@@ -1,0 +1,66 @@
+body{
+    /* background: ; */
+}
+
+.person-form-container{
+    display: flex;
+    width: 33%;
+    margin: 16px auto;
+}
+
+.form-filed{
+    margin-right: 30px;
+}
+.form-control{    
+    height: 29px;
+    width: 200px;
+    font-size: 15px;
+    border: 2px solid #ccc;
+    background: #eee;
+    padding-left: 6px;
+}
+
+.addBtn{
+    width: 84px;
+    height: 33px;
+    font-size: 17px;
+    font-weight: 600;
+    border: 2px solid #8b63e6;
+    background: #fff;
+    color: #8b63e6;
+}
+
+table{
+    margin: 0 32.50%;
+}
+
+.name-porstion{
+    padding: 6px 10px;
+    min-width: 194px;
+    text-align: left;
+    border: 2px solid #ccc;
+    background: #eee;
+}
+
+.EditBtn{
+    width: 84px;
+    height: 33px;
+    font-size: 17px;
+    font-weight: 600;
+    border: 2px solid #0ccf13;
+    background: #0ace1c;
+    color: #f6f5f7;
+    border-radius: 9px;
+}
+
+.RemoveBtn{
+    width: 84px;
+    height: 33px;
+    font-size: 17px;
+    font-weight: 600;
+    border: 2px solid #f0190a;
+    background: #f40202;
+    color: #f6f5f7;
+    border-radius: 9px;
+
+}
